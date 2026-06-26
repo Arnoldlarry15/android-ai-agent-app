@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Hub",
+  "description": "A multi-agent AI hub dashboard for managing personal, professional, and security tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
